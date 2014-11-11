@@ -19,13 +19,12 @@ Current, I really find the perfect combination of Windows and \*nix. And on the 
 
 **Basic Tools Installment**  
 Basic tools install:    
-1. brew :  
+**brew :**   
 
 	ruby -e "$(curl -fsSl https://raw.githubusercontent.com/Homebrew/install/master/install)"    
-
-2. oh-my-zsh:    
-
+	
+**oh\-my\-zsh:**    
+	
 	curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh   
-
-
+	
 So long, and really thanks for all the fish!
